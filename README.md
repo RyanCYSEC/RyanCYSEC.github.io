@@ -1,4 +1,4 @@
-<h1>Hello Everyone, I'm Ryan! <br/> Military Veteran</a> and aspiring Cybersecurity Professional</a>, </h1>
+<h1>Hello Everyone, I'm Ryan! <br/> Military Veteran</a> and aspiring Cybersecurity Professional</a> </h1>
 
 <h2>👨‍💻 Cybersecurity Skills Development Projects:</h2>
 
