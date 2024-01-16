@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Skills Development Projects:</h2>
 
 - <b>Security Information and Event Management SIEM</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Configuring a SIEM lab at home via Virtual Box and Elastic](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
 <h2>📺 Popular YouTube Videos</h2>
