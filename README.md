@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Skills Development Projects:</h2>
 
 - <b>Security Information and Event Management SIEM</b>
-  - [Configuring a SIEM lab at home via Virtual Box and Elastic](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Configuring a SIEM lab at home via Virtual Box and Elastic](https://docs.google.com/document/d/1-hyJCjDKkVhbkOonIyfvJE_VBfMYIaXH/edit?usp=sharing&ouid=117938964749070208634&rtpof=true&sd=true)
 
 
 <h2>📺 Popular YouTube Videos</h2>
