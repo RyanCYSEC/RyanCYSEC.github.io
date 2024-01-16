@@ -6,13 +6,6 @@
   - [Configuring a SIEM lab at home via Virtual Box and Elastic](https://docs.google.com/document/d/1-hyJCjDKkVhbkOonIyfvJE_VBfMYIaXH/edit?usp=sharing&ouid=117938964749070208634&rtpof=true&sd=true)
 
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 
