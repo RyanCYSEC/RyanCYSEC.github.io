@@ -1,6 +1,6 @@
 <h1>Hello Everyone, I'm Ryan! <br/> Military Veteran</a> and aspiring Cybersecurity Professional</a> </h1>
 <h2>About</h2>
-- This page was created to serve as a display of my committment to becoming a more tactically and technically proficient cybersecurity practicioner. Below you will find some noteworthy personal project(s) that I have completed in pursuit of this goal.
+- This page was created to serve as a display of my committment to becoming a more tactically and technically proficient cybersecurity practicioner. Below you will find some noteworthy personal project(s) that I have completed and documented in pursuit of this goal.
 
 <h2>👨‍💻 Cybersecurity Skills Development Projects:</h2>
 
