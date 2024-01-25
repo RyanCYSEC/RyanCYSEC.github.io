@@ -1,6 +1,6 @@
 <h1>Hello Everyone, I'm Ryan! <br/> Military Veteran</a> and aspiring Cybersecurity Professional</a> </h1>
 <h2>About</h2>
-- This page was created to serve as a display of my committment to becoming a more tactically and technically proficient cybersecurity practicioner. Below you will find some noteworthy personal project(s) that I have completed and documented in pursuit of this goal.
+- This page was created to serve as a display of my committment to becoming a more tactically and technically proficient cybersecurity practicioner. Below you will find some noteworthy personal project(s) that I have completed and documented in pursuit of this goal aside from my daily growth using learning platforms such as TryHackMe.
 
 <h2>👨‍💻 Cybersecurity Skills Development Projects:</h2>
 
@@ -10,6 +10,10 @@
 - <b></b>
   -[Additional Projects Coming soon.]
 
+<h2> Certifications
+-CompTIA Security +
+-Google Cybersecurity Professional Certificate
+-TryHackMe SOC Level 1 [In progress]
 
 <h2> 🤳 Connect with me:</h2>
 
