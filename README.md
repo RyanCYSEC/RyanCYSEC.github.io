@@ -12,7 +12,7 @@
 
 <h2> Certifications <h2>
   
-    -<b>CompTIA Security + </b>
+    -<CompTIA Security + 
     -Google Cybersecurity Professional Certificate
     -TryHackMe SOC Level 1 [In progress]
 
