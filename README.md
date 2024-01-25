@@ -12,9 +12,9 @@
 
 <h2> Certifications <h2>
  
-  -CompTIA Security + 
-  -Google Cybersecurity Professional Certificate
-  -TryHackMe SOC Level 1 [In progress]
+      -CompTIA Security + 
+      -Google Cybersecurity Professional Certificate
+      -TryHackMe SOC Level 1 [In progress]
 
 <h2> 🤳 Connect with me:</h2>
 
