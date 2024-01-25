@@ -11,6 +11,7 @@
   -[Additional Projects Coming soon.]
 
 <h2> Certifications <h2>
+  
     -<b>CompTIA Security + </b>
     -Google Cybersecurity Professional Certificate
     -TryHackMe SOC Level 1 [In progress]
